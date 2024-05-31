@@ -16,4 +16,4 @@ The controls for operating the program are as follows:
 
 This would be a small example of what can be done with the program.
 
-![](https://raw.githubusercontent.com/javiLeL/name/main/.github/vids/vid1.git?raw=true)
+![](https://raw.githubusercontent.com/javiLeL/spider-web-node/main/.github/vids/vid1.git?raw=true)
